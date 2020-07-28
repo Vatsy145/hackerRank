@@ -10,4 +10,4 @@
 ### 30_days_of_JS
 > Submissions are limited to the few languages, JavaAcript NOT one of them:
 
-* [day_14_scope.js]()
+* [day_14_scope.js](https://github.com/Ahmad-Sawalqeh/hackerRank/blob/master/30_days_of_code/day_14_scope.js)
